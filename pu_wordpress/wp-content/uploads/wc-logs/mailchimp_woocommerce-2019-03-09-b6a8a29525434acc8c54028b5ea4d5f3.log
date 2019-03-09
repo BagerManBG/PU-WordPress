@@ -1,0 +1,3 @@
+2019-03-09T09:47:15+00:00 ERROR admin@validatePostApiKey :: 500 :: CURL error :: error setting certificate verify locations:
+  CAfile: C:\xampp\apache\bin\curl-ca-bundle.crt
+  CApath: none on 1520 in C:\xampp\htdocs\pu_wordpress\wp-content\plugins\mailchimp-for-woocommerce\includes\api\class-mailchimp-api.php
