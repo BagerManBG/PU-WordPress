@@ -1,4 +1,3 @@
 # PU-WordPress
 
-username: admin
-password: admin
+username: admin /// password: admin
