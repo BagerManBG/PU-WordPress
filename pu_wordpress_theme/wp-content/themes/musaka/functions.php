@@ -1,7 +1,7 @@
 <?php
 
 require_once('wp_bootstrap_navwalker.php');
-require_once('options.php');
+require_once('redux.php');
 
 wp_register_style( 'Bootstrap', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css' );
 wp_enqueue_style('Bootstrap');
